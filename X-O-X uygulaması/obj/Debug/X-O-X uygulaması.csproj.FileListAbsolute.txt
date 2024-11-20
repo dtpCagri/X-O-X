@@ -1,0 +1,30 @@
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.exe.config
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.exe
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.pdb
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.csproj.AssemblyReference.cache
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X_O_X_uygulaması.Form1.resources
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X_O_X_uygulaması.Properties.Resources.resources
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.csproj.GenerateResource.cache
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.exe
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.pdb
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X_O_X_uygulaması.Form2.resources
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.exe.manifest
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.application
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.exe.manifest
+C:\Users\cagri\OneDrive\Masaüstü\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.application
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.exe.config
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.exe.manifest
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.application
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.exe
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\bin\Debug\X-O-X uygulaması.pdb
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X_O_X_uygulaması.Form1.resources
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X_O_X_uygulaması.Form2.resources
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X_O_X_uygulaması.Properties.Resources.resources
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.csproj.GenerateResource.cache
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.exe.manifest
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.application
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.exe
+C:\Users\cagri\Desktop\Forms Kodlar\X-O-X uygulaması\X-O-X uygulaması\obj\Debug\X-O-X uygulaması.pdb
